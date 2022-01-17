@@ -1,1 +1,3 @@
+## I'm Ghost_chu
 
+![Ghost_chu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghost-chu&count_private=true)
