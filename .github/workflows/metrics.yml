@@ -57,4 +57,4 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
           repositories_forks: yes
-          users_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot], actions-user, foosa-bot, crowdin
+          users_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot], actions-user, foosa-bot, crowdin, imgbot, imgbot[bot]
