@@ -6,4 +6,4 @@ A college student and making some Minecraft related.
 | ------------- | ------------- |
 -->
 
-<img align="center" width="70%" alt="metric" src="https://raw.githubusercontent.com/Ghost-chu/Ghost-chu/main/github-metrics.svg">
+<center><img align="center" width="70%" alt="metric" src="https://raw.githubusercontent.com/Ghost-chu/Ghost-chu/main/github-metrics.svg"></center>
