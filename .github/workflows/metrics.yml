@@ -25,10 +25,12 @@ jobs:
           user: Ghost-chu
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: columns
+          config_octicon: yes
           config_timezone: Asia/Shanghai
           config_twemoji: yes
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_display: details
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_isocalendar: yes
