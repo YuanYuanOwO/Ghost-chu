@@ -43,9 +43,6 @@ jobs:
           plugin_lines: yes
           users_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot], actions-user, foosa-bot, crowdin, imgbot, imgbot[bot]
           filename: "profile-left.svg"
-  github-metrics-right:
-    runs-on: ubuntu-latest
-    steps:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
@@ -73,4 +70,4 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           users_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot], actions-user, foosa-bot, crowdin, imgbot, imgbot[bot]
-          filename: "profile-left.svg"
+          filename: "profile-right.svg"
