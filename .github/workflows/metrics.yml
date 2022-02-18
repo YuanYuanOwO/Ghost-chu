@@ -40,7 +40,12 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_followup: yes
+          plugin_followup_sections: repositories
           plugin_lines: yes
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
           users_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot], actions-user, foosa-bot, crowdin, imgbot, imgbot[bot]
           filename: "profile-left.svg"
       - uses: lowlighter/metrics@latest
